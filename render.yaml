@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: mas-traders-backend
+    env: node
+    buildCommand: pnpm i && pnpm run build:server
+    startCommand: pnpm run start
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: NODE_ENV
+        value: production
+      # - key: DATABASE_URL
+      #   sync: false # Set this manually in the Render dashboard!
+      # - key: VITE_FRONTEND_URL
+      #   sync: false # Set this to your Vercel URL manually

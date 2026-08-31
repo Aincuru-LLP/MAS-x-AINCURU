@@ -8,6 +8,7 @@ import { appRouter } from "../routers";
 import { createServer as createViteServer } from "vite";
 import path from "path";
 import { fileURLToPath } from "url";
+import cors from "cors";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -39,6 +40,12 @@ const createContext = ({ req, res }: any) => {
 async function startServer() {
   const app = express();
   const server = createServer(app);
+  
+  // Enable CORS
+  app.use(cors({
+    origin: process.env.VITE_FRONTEND_URL || "*",
+    credentials: true,
+  }));
   
   // Configure body parser with larger size limit for file uploads
   app.use(express.json({ limit: "50mb" }));
