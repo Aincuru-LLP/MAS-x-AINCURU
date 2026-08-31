@@ -1,0 +1,6 @@
+import { ArrowDownToLine, FileText } from "lucide-react";
+import { business } from "@/lib/business";
+
+export default function CatalogueDownloadCTA() {
+  return <section className="catalogue-download-cta"><div className="relative z-10 grid gap-8 lg:grid-cols-[1fr_auto] lg:items-end"><div><p className="technical-label text-blue-300">OFFICIAL CATALOGUE / 27 AUG 2026</p><h2 className="mt-3 max-w-xl text-4xl font-bold leading-[0.95] tracking-[-0.055em] text-white sm:text-5xl">Need the complete product range?</h2><p className="mt-5 max-w-xl text-sm leading-6 text-slate-300">Download the official M.A.S. Traders commercial product index covering all 21 industrial divisions and 141 listed items.</p></div><a href={business.cataloguePdfUrl} className="inline-flex h-12 items-center justify-center gap-2 rounded-xl bg-white px-5 text-sm font-bold text-blue-700 transition hover:bg-blue-50"><ArrowDownToLine size={17}/> Download Full Catalogue</a></div><div className="relative z-10 mt-8 flex items-center gap-3 border-t border-white/10 pt-4 text-xs font-semibold text-slate-400"><FileText size={15} className="text-blue-300"/> Official commercial product index • PDF</div><span className="absolute -right-16 -top-16 h-52 w-52 rounded-full border border-blue-300/20"/><span className="absolute bottom-0 right-0 h-24 w-24 border-l border-t border-blue-300/20"/></section>;
+}

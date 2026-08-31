@@ -1,0 +1,79 @@
+# Project TODO
+
+- [x] Establish the M.A.S. blue, off-white, navy, typography, spacing, motion, and responsive design tokens.
+- [x] Integrate the approved M.A.S. Traders logo exactly as supplied through managed web asset storage.
+- [x] Build a sticky desktop header and accessible mobile navigation with category, finder, requirement, and quote paths.
+- [x] Build the premium industrial homepage in the specified content order with generated product imagery and only verified catalogue content.
+- [x] Implement the verified product catalogue taxonomy, search, category filtering, product details, and empty states without invented product details.
+- [x] Implement a persistent My Requirement builder with quantity and notes controls.
+- [x] Implement a validated quote-request form and durable RFQ reference flow with optional file metadata.
+- [x] Exclude unavailable contacts, map, catalogue download, store hours, and unsupported claims until verified inputs are supplied.
+- [x] Add responsive layouts, accessible interactions, metadata, and reduced-motion behavior.
+- [x] Add explicit spacing, breakpoint, shadow, duration, and easing tokens calibrated to the approved logo blue.
+- [x] Add Vitest coverage for catalogue filtering and requirement logic, then run type-check and tests.
+- [x] Perform desktop and mobile visual verification, resolve issues, and save the first production checkpoint.
+- [x] Extract verified contact, location, and catalogue metadata from the newly supplied business materials.
+- [x] Upload and integrate the official M.A.S. Traders catalogue PDF as a managed download asset.
+- [x] Refactor Product Finder into curated category sections with three to four representative products and category-specific View All routes.
+- [x] Keep the complete existing product dataset available through category listings and active search, without duplicate product records or regenerated product assets.
+- [x] Add a horizontally scrollable category filter, focused search-result state, clear empty state, and lightweight loading behavior.
+- [x] Add verified contact, map, and catalogue-download actions only where the new source materials confirm values; map remains hidden because no full street address or verified map link was supplied.
+- [x] Add unit coverage and desktop/mobile visual verification for the refactored finder before saving an updated checkpoint.
+- [x] Replace the external storage redirect download with a Brave-compatible in-app PDF download flow and verify it.
+- [x] Extract the approved current product-image list and audit every existing Product Finder image mapping.
+- [x] Source accurate real images for the approved branded products and use neutral product studies for the specified generic industrial items only.
+- [x] Replace only the specified Product Finder image mappings without redesigning layout, typography, navigation, cards, routes, or animation behavior.
+- [x] Ensure every visible specified product uses a distinct, relevant, lazy-loaded, responsive catalogue image.
+- [x] Verify image accuracy, brand packaging restrictions, desktop/mobile display, and product-card loading behavior before saving a checkpoint.
+- [x] Use accurate real web product images for the remaining specified products, reserving the already-created AI images for priority generic products only.
+- [x] Replace all multi-product, article, tool-set, or category imagery with accurate single-product sources, beginning with Drill Machines, Angle Grinder Machines, Sheet Metals, Hammer, and Cutting Pliers.
+- [x] Create a per-product QA checklist for all 70 visible cards with final asset URL, exact source title, and pass/fail note.
+- [x] Correct the known mismatches for LPG Regulator, Grey Primer, Beehive/Beerow Locks, Gate Locks, Desk Wheels, Tower Bolts, and Aldrops with single-product sources.
+- [x] Replace remaining ambiguous or multi-item source imagery, beginning with Desk Wheels, Aldrops, Tower Bolts, and any stock/search landing thumbnails.
+- [x] Add a WhatsApp quote-delivery path for completed requests sent to +91 93858 11577.
+- [x] Support customer attachment delivery through the selected WhatsApp-compatible method without exposing private credentials.
+- [x] Add clear customer-facing confirmation and a fallback path when automated WhatsApp delivery is unavailable.
+- [x] Add backend and UI tests for the completed quote-delivery flow, then verify it in the browser.
+- [x] Open WhatsApp to +91 93858 11577 only after a successful quote submission, with a prefilled customer and requirement summary.
+- [x] Tell customers to attach selected reference images manually in WhatsApp before they tap Send.
+- [x] Provide a visible WhatsApp fallback button if a browser blocks the automatic WhatsApp handoff.
+- [x] Prevent quote submission when the requirement list is empty across the form, client request, and server procedure.
+- [ ] Send the owner an email notification for each successfully stored RFQ, including customer details, product summary, notes, reference, and attachment links.
+- [ ] Configure the selected email provider through secure project secrets without exposing credentials.
+- [ ] Add tests for empty-RFQ rejection and successful owner notification, then verify the form behavior.
+- [x] Replace any repeated category-card hero image with a distinct, category-relevant existing product image.
+- [x] Verify category-card image uniqueness on desktop and mobile before saving the visual-editor correction checkpoint.
+- [x] Rework the mobile hero for clear above-the-fold product discovery while preserving the approved M.A.S. logo, content, and visual identity.
+- [x] Add a compact mobile sticky action bar for WhatsApp, My Requirement, and Call with safe-area spacing and accessible touch targets.
+- [x] Refine the mobile navigation drawer with sequenced links, catalogue access, and the existing quote action without changing routes.
+- [x] Improve mobile Product Finder search, horizontal category filters, product-card sizing, image containment, and category-index scanning.
+- [x] Refine mobile product detail and requirement interactions so primary product and quote actions remain easy to reach.
+- [x] Add restrained premium motion for navigation, hero, section reveals, product cards, and interactive controls using the existing component architecture.
+- [x] Respect reduced-motion preferences and keep mobile scrolling native, performant, and free of heavy pinned or scroll-jacking behavior.
+- [x] Add or update regression coverage for the mobile interaction and motion utilities, then validate desktop and mobile layouts before checkpointing.
+- [x] Establish an explicit navigation and modal z-index hierarchy so mobile overlays fully isolate page content without affecting desktop headers or dialogs.
+- [x] Fix the mobile menu backdrop, independent stacking context, open/close sequence, and scroll lock so hero content and highlight artifacts cannot appear through it.
+- [x] Add keyboard focus capture, Escape handling, focus restoration, and route-safe link closing to the mobile navigation overlay.
+- [x] Audit and correct all header, menu, catalogue, finder, category, about, and contact links across mobile, tablet, and desktop states.
+- [x] Add navigation regression coverage and complete visual QA at phone, tablet, and desktop breakpoints before checkpointing.
+- [x] Allow customers to submit an RFQ without selected products while retaining product summaries for requirement-based RFQs.
+- [x] Remove the empty-requirement RFQ block from the client and server while preserving required customer-contact validation.
+- [x] Update RFQ regression tests and verify both general enquiry and selected-product quote submissions before checkpointing.
+- [x] Fix the mobile RFQ sheet so its form content scrolls within the visible viewport and the submit control remains reachable above mobile browser chrome.
+- [x] Compact the no-product general-enquiry presentation on small screens without altering the desktop RFQ dialog or customer validation.
+- [ ] Verify the mobile RFQ sheet at real phone dimensions, including scrolling to the submit control and retaining desktop dialog behavior.
+- [ ] Perform a final post-fix phone-sheet and desktop-dialog RFQ QA check before checkpointing.
+- [x] Hide the Product Index hero-image caption panel on mobile while retaining the existing desktop caption behavior.
+- [x] Verify the mobile hero visual is unobstructed and the desktop caption remains present before checkpointing.
+- [x] Prepare a professional client-facing overview of the completed M.A.S. Traders website, key capabilities, customer journey, and current delivery status.
+- [x] Add Vernus Padlock to the catalogue with an accurate reference image and valid product/detail/RFQ routes.
+- [x] Add the blue rolled sheet/material to the catalogue with an accurate reference image and valid product/detail/RFQ routes.
+- [x] Verify both new products in search, category browsing, product details, imagery, and My Requirement before checkpointing.
+
+- [x] Confirm and align the padlock product name with the verified source (Vernus versus Venus) and its reference image.
+- [x] Confirm the blue rolled-sheet image matches the intended product and record an exact source title and URL.
+- [x] Manually verify both new products through search, category listing, product detail, Add to My Requirement, and RFQ summary states.
+
+- [x] Record the exact Farm Plastic Supply source URL alongside the blue rolled-sheet source title in the product QA record.
+- [x] Manually verify Venus Padlock 67mm and Blue Plastic Sheet Roll in Product Finder search; each returned one matching result with the correct mapped image and route.
+

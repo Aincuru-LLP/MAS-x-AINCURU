@@ -1,0 +1,28 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-failover/-product-safety-safety-jerkin.webp (size: 69688 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/-product-safety-safety-jerkin_5e372e8c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-failover/mas-product-safety-safety-shoe.webp (size: 50994 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mas-product-safety-safety-shoe_478c8f3c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-failover/s-product-adhesives-pu-foams.webp (size: 47956 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-adhesives-pu-foams_e77602db.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-failover/s-product-adhesives-silicon.webp (size: 21916 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-adhesives-silicon_44388735.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-failover/s-product-safety-safety-gloves.webp (size: 95390 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-safety-safety-gloves_672d8b27.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-failover/s-product-safety-safety-helmet.webp (size: 11888 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-safety-safety-helmet_a8e711fb.webp
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-failover/-product-safety-safety-jerkin.webp -> /manus-storage/-product-safety-safety-jerkin_5e372e8c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-failover/mas-product-safety-safety-shoe.webp -> /manus-storage/mas-product-safety-safety-shoe_478c8f3c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-failover/s-product-adhesives-pu-foams.webp -> /manus-storage/s-product-adhesives-pu-foams_e77602db.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-failover/s-product-adhesives-silicon.webp -> /manus-storage/s-product-adhesives-silicon_44388735.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-failover/s-product-safety-safety-gloves.webp -> /manus-storage/s-product-safety-safety-gloves_672d8b27.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-failover/s-product-safety-safety-helmet.webp -> /manus-storage/s-product-safety-safety-helmet_a8e711fb.webp
+=====================================
+Total: 6, Success: 6, Failed: 0

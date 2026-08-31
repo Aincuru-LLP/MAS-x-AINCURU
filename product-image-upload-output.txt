@@ -1,0 +1,252 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/-product-hand-tools-cutting-pliers.webp (size: 37734 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/-product-hand-tools-cutting-pliers_e7e602c5.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/mas-product-waterproofing-dr-fixit.webp (size: 26676 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mas-product-waterproofing-dr-fixit_65716038.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-abrasives-cutting-wheels.webp (size: 38178 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-abrasives-cutting-wheels_69a93510.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-abrasives-flap-disc.webp (size: 182940 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-abrasives-flap-disc_fda95308.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-abrasives-grinding-wheel.webp (size: 105956 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-abrasives-grinding-wheel_4d75c271.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-abrasives-polishing-wheels.webp (size: 16082 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-abrasives-polishing-wheels_b268789b.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-adhesives-araldite.webp (size: 36918 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-adhesives-araldite_e27ffa2e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-adhesives-fevicol.webp (size: 15664 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-adhesives-fevicol_aa7f72d3.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-bits-concrete-drill-bits.webp (size: 132346 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-bits-concrete-drill-bits_f9de4797.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-bits-granite-core-bits.webp (size: 18318 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-bits-granite-core-bits_6561cc46.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-bits-star-bits.webp (size: 23696 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-bits-star-bits_bd171642.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-bits-steel-hole-bits.webp (size: 42342 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-bits-steel-hole-bits_aef039f2.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-brushes-paint-brush.webp (size: 22986 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-brushes-paint-brush_5131e4e2.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-brushes-paint-roller.webp (size: 19690 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-brushes-paint-roller_1d4ea445.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-construction-man-hole-covers.webp (size: 5826 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-construction-man-hole-covers_aa05b952.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-construction-masonry-trowel-karni.webp (size: 11450 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-construction-masonry-trowel-karni_7805be8f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-construction-spirit-level.webp (size: 22780 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-construction-spirit-level_347ca3cf.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-construction-wheel-barrows.webp (size: 20334 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-construction-wheel-barrows_ec8a7210.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-disinfectant-termiguard-liquid.webp (size: 69286 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-disinfectant-termiguard-liquid_8c662540.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-disinfectant-termiguard-spray.webp (size: 22292 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-disinfectant-termiguard-spray_32f601e6.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-electrodes-brass-electrodes.webp (size: 35658 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-electrodes-brass-electrodes_184c01ce.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-electrodes-ms-welding-electrodes.webp (size: 24640 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-electrodes-ms-welding-electrodes_03151a51.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-electrodes-welding-electrodes.webp (size: 45692 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-electrodes-welding-electrodes_fd647c50.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-fasteners-anchor-bolts.webp (size: 9956 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-fasteners-anchor-bolts_8da92e80.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-fasteners-foundation-bolts.webp (size: 39792 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-fasteners-foundation-bolts_580b132d.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-fasteners-ms-bolt-nuts.webp (size: 40100 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-fasteners-ms-bolt-nuts_dcc2100d.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-fasteners-ms-nails.webp (size: 9514 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-fasteners-ms-nails_2619aee5.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-gas-welding-flash-back-arrestors.webp (size: 56304 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-gas-welding-flash-back-arrestors_f5a43b8c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-gas-welding-gas-cutting-torch.webp (size: 87756 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-gas-welding-gas-cutting-torch_be3caca5.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-gas-welding-lpg-regulator.webp (size: 42080 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-gas-welding-lpg-regulator_9bcc2f6f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-gas-welding-oxygen-regulator.webp (size: 59126 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-gas-welding-oxygen-regulator_d442ca3b.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-gate-aldrops.webp (size: 15972 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-gate-aldrops_d5eac0e4.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-gate-hinges.webp (size: 58304 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-gate-hinges_6efa4566.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-gate-sheet-metals.webp (size: 46720 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-gate-sheet-metals_16b4049a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-gate-tower-bolts.webp (size: 10658 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-gate-tower-bolts_5cd94b27.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-hand-tools-adjustable-wrench.webp (size: 35638 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-hand-tools-adjustable-wrench_cfb97f12.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-hand-tools-hammer.webp (size: 42868 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-hand-tools-hammer_1caee441.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-hand-tools-screw-drivers.webp (size: 33574 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-hand-tools-screw-drivers_79319f8a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-locks-beehive-beerow-locks.webp (size: 20968 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-locks-beehive-beerow-locks_98cb5a09.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-locks-gate-locks.webp (size: 21670 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-locks-gate-locks_79e5d5c4.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-locks-shutter-locks.webp (size: 20968 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-locks-shutter-locks_5add0fcb.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-measurement-measurement-tapes.webp (size: 35288 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-measurement-measurement-tapes_cf3a180c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-ms-plates-all-sizes-available.webp (size: 15978 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-ms-plates-all-sizes-available_843d0abe.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-paint-grey-primer.webp (size: 91422 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-paint-grey-primer_fc5eaaef.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-paint-red-oxide.webp (size: 39764 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-paint-red-oxide_50e0e1d8.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-paint-spray-paint.webp (size: 63264 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-paint-spray-paint_5bebeff5.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-paint-yellow-primer.webp (size: 30242 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-paint-yellow-primer_50674eac.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-power-tools-angle-grinder-machines.webp (size: 59104 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-power-tools-angle-grinder-machines_9d3049f0.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-power-tools-cut-off-machines.webp (size: 39746 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-power-tools-cut-off-machines_fe3879ec.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-power-tools-drill-machines.webp (size: 76170 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-power-tools-drill-machines_19549151.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-power-tools-tiles-cutter.webp (size: 37146 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-power-tools-tiles-cutter_5b748b18.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-ropes-cable-tags.webp (size: 18576 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-ropes-cable-tags_1c1a2616.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-ropes-heavy-duty-yellow-ropes.webp (size: 46644 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-ropes-heavy-duty-yellow-ropes_f19e028a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-ropes-lifting-ropes.webp (size: 101364 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-ropes-lifting-ropes_c98d6e83.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-ropes-tie-ropes.webp (size: 77448 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-ropes-tie-ropes_f87a2c8c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-rust-g1.webp (size: 16134 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-rust-g1_7a524c91.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-rust-wd-40.webp (size: 22564 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-rust-wd-40_79bb6589.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-waterproofing-fosroc.webp (size: 46180 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-waterproofing-fosroc_1a79941e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-waterproofing-sika.webp (size: 98274 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-waterproofing-sika_094ee57c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-wheels-desk-wheels.webp (size: 41736 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-wheels-desk-wheels_012eb0c4.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-wheels-fast-food-vehicle-wheels.webp (size: 38054 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-wheels-fast-food-vehicle-wheels_f0accaa7.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products/s-product-wheels-wheel-barrow-wheels.webp (size: 34026 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-wheels-wheel-barrow-wheels_bc8979cd.webp
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/-product-hand-tools-cutting-pliers.webp -> /manus-storage/-product-hand-tools-cutting-pliers_e7e602c5.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/mas-product-waterproofing-dr-fixit.webp -> /manus-storage/mas-product-waterproofing-dr-fixit_65716038.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-abrasives-cutting-wheels.webp -> /manus-storage/s-product-abrasives-cutting-wheels_69a93510.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-abrasives-flap-disc.webp -> /manus-storage/s-product-abrasives-flap-disc_fda95308.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-abrasives-grinding-wheel.webp -> /manus-storage/s-product-abrasives-grinding-wheel_4d75c271.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-abrasives-polishing-wheels.webp -> /manus-storage/s-product-abrasives-polishing-wheels_b268789b.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-adhesives-araldite.webp -> /manus-storage/s-product-adhesives-araldite_e27ffa2e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-adhesives-fevicol.webp -> /manus-storage/s-product-adhesives-fevicol_aa7f72d3.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-bits-concrete-drill-bits.webp -> /manus-storage/s-product-bits-concrete-drill-bits_f9de4797.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-bits-granite-core-bits.webp -> /manus-storage/s-product-bits-granite-core-bits_6561cc46.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-bits-star-bits.webp -> /manus-storage/s-product-bits-star-bits_bd171642.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-bits-steel-hole-bits.webp -> /manus-storage/s-product-bits-steel-hole-bits_aef039f2.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-brushes-paint-brush.webp -> /manus-storage/s-product-brushes-paint-brush_5131e4e2.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-brushes-paint-roller.webp -> /manus-storage/s-product-brushes-paint-roller_1d4ea445.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-construction-man-hole-covers.webp -> /manus-storage/s-product-construction-man-hole-covers_aa05b952.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-construction-masonry-trowel-karni.webp -> /manus-storage/s-product-construction-masonry-trowel-karni_7805be8f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-construction-spirit-level.webp -> /manus-storage/s-product-construction-spirit-level_347ca3cf.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-construction-wheel-barrows.webp -> /manus-storage/s-product-construction-wheel-barrows_ec8a7210.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-disinfectant-termiguard-liquid.webp -> /manus-storage/s-product-disinfectant-termiguard-liquid_8c662540.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-disinfectant-termiguard-spray.webp -> /manus-storage/s-product-disinfectant-termiguard-spray_32f601e6.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-electrodes-brass-electrodes.webp -> /manus-storage/s-product-electrodes-brass-electrodes_184c01ce.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-electrodes-ms-welding-electrodes.webp -> /manus-storage/s-product-electrodes-ms-welding-electrodes_03151a51.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-electrodes-welding-electrodes.webp -> /manus-storage/s-product-electrodes-welding-electrodes_fd647c50.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-fasteners-anchor-bolts.webp -> /manus-storage/s-product-fasteners-anchor-bolts_8da92e80.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-fasteners-foundation-bolts.webp -> /manus-storage/s-product-fasteners-foundation-bolts_580b132d.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-fasteners-ms-bolt-nuts.webp -> /manus-storage/s-product-fasteners-ms-bolt-nuts_dcc2100d.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-fasteners-ms-nails.webp -> /manus-storage/s-product-fasteners-ms-nails_2619aee5.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-gas-welding-flash-back-arrestors.webp -> /manus-storage/s-product-gas-welding-flash-back-arrestors_f5a43b8c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-gas-welding-gas-cutting-torch.webp -> /manus-storage/s-product-gas-welding-gas-cutting-torch_be3caca5.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-gas-welding-lpg-regulator.webp -> /manus-storage/s-product-gas-welding-lpg-regulator_9bcc2f6f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-gas-welding-oxygen-regulator.webp -> /manus-storage/s-product-gas-welding-oxygen-regulator_d442ca3b.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-gate-aldrops.webp -> /manus-storage/s-product-gate-aldrops_d5eac0e4.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-gate-hinges.webp -> /manus-storage/s-product-gate-hinges_6efa4566.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-gate-sheet-metals.webp -> /manus-storage/s-product-gate-sheet-metals_16b4049a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-gate-tower-bolts.webp -> /manus-storage/s-product-gate-tower-bolts_5cd94b27.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-hand-tools-adjustable-wrench.webp -> /manus-storage/s-product-hand-tools-adjustable-wrench_cfb97f12.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-hand-tools-hammer.webp -> /manus-storage/s-product-hand-tools-hammer_1caee441.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-hand-tools-screw-drivers.webp -> /manus-storage/s-product-hand-tools-screw-drivers_79319f8a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-locks-beehive-beerow-locks.webp -> /manus-storage/s-product-locks-beehive-beerow-locks_98cb5a09.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-locks-gate-locks.webp -> /manus-storage/s-product-locks-gate-locks_79e5d5c4.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-locks-shutter-locks.webp -> /manus-storage/s-product-locks-shutter-locks_5add0fcb.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-measurement-measurement-tapes.webp -> /manus-storage/s-product-measurement-measurement-tapes_cf3a180c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-ms-plates-all-sizes-available.webp -> /manus-storage/s-product-ms-plates-all-sizes-available_843d0abe.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-paint-grey-primer.webp -> /manus-storage/s-product-paint-grey-primer_fc5eaaef.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-paint-red-oxide.webp -> /manus-storage/s-product-paint-red-oxide_50e0e1d8.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-paint-spray-paint.webp -> /manus-storage/s-product-paint-spray-paint_5bebeff5.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-paint-yellow-primer.webp -> /manus-storage/s-product-paint-yellow-primer_50674eac.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-power-tools-angle-grinder-machines.webp -> /manus-storage/s-product-power-tools-angle-grinder-machines_9d3049f0.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-power-tools-cut-off-machines.webp -> /manus-storage/s-product-power-tools-cut-off-machines_fe3879ec.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-power-tools-drill-machines.webp -> /manus-storage/s-product-power-tools-drill-machines_19549151.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-power-tools-tiles-cutter.webp -> /manus-storage/s-product-power-tools-tiles-cutter_5b748b18.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-ropes-cable-tags.webp -> /manus-storage/s-product-ropes-cable-tags_1c1a2616.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-ropes-heavy-duty-yellow-ropes.webp -> /manus-storage/s-product-ropes-heavy-duty-yellow-ropes_f19e028a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-ropes-lifting-ropes.webp -> /manus-storage/s-product-ropes-lifting-ropes_c98d6e83.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-ropes-tie-ropes.webp -> /manus-storage/s-product-ropes-tie-ropes_f87a2c8c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-rust-g1.webp -> /manus-storage/s-product-rust-g1_7a524c91.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-rust-wd-40.webp -> /manus-storage/s-product-rust-wd-40_79bb6589.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-waterproofing-fosroc.webp -> /manus-storage/s-product-waterproofing-fosroc_1a79941e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-waterproofing-sika.webp -> /manus-storage/s-product-waterproofing-sika_094ee57c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-wheels-desk-wheels.webp -> /manus-storage/s-product-wheels-desk-wheels_012eb0c4.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-wheels-fast-food-vehicle-wheels.webp -> /manus-storage/s-product-wheels-fast-food-vehicle-wheels_f0accaa7.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products/s-product-wheels-wheel-barrow-wheels.webp -> /manus-storage/s-product-wheels-wheel-barrow-wheels_bc8979cd.webp
+=====================================
+Total: 62, Success: 62, Failed: 0

@@ -1,0 +1,24 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-quality/mas-product-power-tools-drill-machines.webp (size: 18936 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mas-product-power-tools-drill-machines_9b93c052.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-quality/s-product-gate-sheet-metals.webp (size: 17226 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-gate-sheet-metals_5b17021e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-quality/s-product-hand-tools-cutting-pliers.webp (size: 12322 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-hand-tools-cutting-pliers_5960386e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-quality/s-product-hand-tools-hammer.webp (size: 12024 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-hand-tools-hammer_d0840fbd.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mas-products-quality/s-product-power-tools-angle-grinder-machines.webp (size: 16780 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/s-product-power-tools-angle-grinder-machines_0ca1fa01.webp
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-quality/mas-product-power-tools-drill-machines.webp -> /manus-storage/mas-product-power-tools-drill-machines_9b93c052.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-quality/s-product-gate-sheet-metals.webp -> /manus-storage/s-product-gate-sheet-metals_5b17021e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-quality/s-product-hand-tools-cutting-pliers.webp -> /manus-storage/s-product-hand-tools-cutting-pliers_5960386e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-quality/s-product-hand-tools-hammer.webp -> /manus-storage/s-product-hand-tools-hammer_d0840fbd.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/mas-products-quality/s-product-power-tools-angle-grinder-machines.webp -> /manus-storage/s-product-power-tools-angle-grinder-machines_0ca1fa01.webp
+=====================================
+Total: 5, Success: 5, Failed: 0
