@@ -6,7 +6,7 @@ import { useRequirement } from "@/components/RequirementProvider";
 import { business } from "@/lib/business";
 import { siteNavigation } from "@/lib/navigation";
 
-const logoUrl = "/mas-logo.jpeg";
+const logoUrl = "/manus-storage/logo.png";
 const focusableSelector = "a[href], button:not([disabled]), input:not([disabled]), textarea:not([disabled]), select:not([disabled]), [tabindex]:not([tabindex='-1'])";
 
 type NavigationItem = {

@@ -10,7 +10,7 @@ import { MobileActionBar } from "@/components/MobileActionBar";
 import { MotionReveal } from "@/components/Motion";
 
 const heroImage = "/manus-storage/mas-hero-industrial-supply_d41860d6.jpg";
-const logoUrl = "/manus-storage/mas-logo-approved_e3e39f61.png";
+const logoUrl = "/manus-storage/logo.png";
 
 export default function Home() {
   const [search, setSearch] = useState("");
