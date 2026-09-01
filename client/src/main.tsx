@@ -40,7 +40,9 @@ queryClient.getMutationCache().subscribe(event => {
 const trpcClient = trpc.createClient({
   links: [
     httpBatchLink({
-      url: import.meta.env.VITE_API_URL || "/api/trpc",
+      url: import.meta.env.VITE_API_URL 
+        ? `${import.meta.env.VITE_API_URL.replace(/\/$/, "").replace(/\/api\/trpc$/, "")}/api/trpc` 
+        : "/api/trpc",
       transformer: superjson,
       headers() {
         // Preview auto-login fallback: when the browser blocks iframe cookies
