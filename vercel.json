@@ -1,11 +1,11 @@
 {
   "framework": "vite",
   "buildCommand": "pnpm run build:client",
-  "outputDirectory": "client/dist",
+  "outputDirectory": "dist/public",
   "rewrites": [
     {
       "source": "/api/trpc/(.*)",
-      "destination": "https://<your-render-backend-url>/api/trpc/$1"
+      "destination": "https://mas-x-aincuru.onrender.com/api/trpc/$1"
     },
     {
       "source": "/(.*)",
