@@ -70,7 +70,10 @@ async function startServer() {
     });
     app.use(vite.middlewares);
   } else {
-    const staticPath = path.resolve(__dirname, "..", "..", "dist", "public");
+    const staticPath =
+      process.env.NODE_ENV === "production"
+        ? path.resolve(__dirname, "public")
+        : path.resolve(__dirname, "..", "..", "dist", "public");
     app.use(express.static(staticPath));
     app.get("*", (_req, res) => {
       res.sendFile(path.join(staticPath, "index.html"));
