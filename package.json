@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=development tsx watch server/_core/index.ts",
-    "build:client": "vite build",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "build:client": "node scripts/generate-sitemap.mjs && vite build",
     "build:server": "esbuild server/_core/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
     "build": "pnpm run build:client && pnpm run build:server",
     "start": "cross-env NODE_ENV=production node dist/index.js",

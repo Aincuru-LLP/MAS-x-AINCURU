@@ -8,6 +8,7 @@ import { useRequirement } from "@/components/RequirementProvider";
 import { business } from "@/lib/business";
 import { MobileActionBar } from "@/components/MobileActionBar";
 import { MotionReveal } from "@/components/Motion";
+import SEO from "@/components/SEO";
 
 const heroImage = "/manus-storage/mas-hero-industrial-supply_d41860d6.jpg";
 const logoUrl = "/manus-storage/logo.png";
@@ -25,7 +26,14 @@ export default function Home() {
     navigate(`/catalogue${search ? `?q=${encodeURIComponent(search)}` : ""}`);
   };
 
-  return <div className="min-h-screen overflow-x-hidden bg-[#f8fafc] text-slate-950"><SiteHeader />
+  return <div className="min-h-screen overflow-x-hidden bg-[#f8fafc] text-slate-950">
+    <SEO
+      title="M.A.S. Traders | Best Traders, Hardwares, Tools & Pipes in Kovilpatti"
+      description="M.A.S. Traders is Kovilpatti's top industrial trader and hardware store. Supplying power tools, hand tools, pipes, electricals, fasteners, and safety gear. Instant quotes and fast delivery."
+      keywords="Kovilpatti best traders, best hardware store in Kovilpatti, hardwares Kovilpatti, tools Kovilpatti, hardware shop near me, pipes traders Kovilpatti, electricals Kovilpatti, power tools Kovilpatti, hand tools Kovilpatti, M.A.S. Traders"
+      canonical="/"
+    />
+    <SiteHeader />
     <main>
       <section className="relative isolate overflow-hidden pb-20 pt-24 sm:pt-36 lg:pb-28">
         <div className="hero-grid absolute inset-0 -z-10" /><div className="absolute -right-32 top-12 -z-10 h-[560px] w-[560px] rounded-full bg-blue-200/40 blur-3xl" />

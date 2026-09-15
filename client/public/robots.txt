@@ -1,0 +1,54 @@
+# Robots.txt for M.A.S. Traders (Kovilpatti)
+# https://mas-traders.com
+
+User-agent: *
+Allow: /
+Disallow: /api/trpc/
+Disallow: /__manus__/
+
+# Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# AI Answer Engine & Research Crawlers (AEO / LLM indexing)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Sitemap Index
+Sitemap: https://mas-traders.com/sitemap.xml
