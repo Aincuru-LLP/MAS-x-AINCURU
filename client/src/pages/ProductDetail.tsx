@@ -20,7 +20,7 @@ export default function ProductDetail() {
       "@context": "https://schema.org",
       "@type": "Product",
       "name": product.name,
-      "image": `https://mas-traders.com${productImage(product)}`,
+      "image": `https://mastraderskvp.in${productImage(product)}`,
       "description": `${product.name} supplied by M.A.S. Traders in Kovilpatti, Tamil Nadu. Category: ${product.category}. Request an instant price quote and availability check.`,
       "category": product.category,
       "brand": {
@@ -31,7 +31,7 @@ export default function ProductDetail() {
         "@type": "Offer",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "url": `https://mas-traders.com/product/${product.slug}`,
+        "url": `https://mastraderskvp.in/product/${product.slug}`,
         "seller": {
           "@type": "Organization",
           "name": "M.A.S. Traders Kovilpatti",
@@ -43,10 +43,10 @@ export default function ProductDetail() {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mas-traders.com/" },
-        { "@type": "ListItem", "position": 2, "name": "Catalogue", "item": "https://mas-traders.com/catalogue" },
-        { "@type": "ListItem", "position": 3, "name": product.category, "item": `https://mas-traders.com/category/${categorySlug(product.category)}` },
-        { "@type": "ListItem", "position": 4, "name": product.name, "item": `https://mas-traders.com/product/${product.slug}` }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mastraderskvp.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Catalogue", "item": "https://mastraderskvp.in/catalogue" },
+        { "@type": "ListItem", "position": 3, "name": product.category, "item": `https://mastraderskvp.in/category/${categorySlug(product.category)}` },
+        { "@type": "ListItem", "position": 4, "name": product.name, "item": `https://mastraderskvp.in/product/${product.slug}` }
       ]
     }
   ];

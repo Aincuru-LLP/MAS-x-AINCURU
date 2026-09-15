@@ -15,7 +15,7 @@ const DEFAULT_DESCRIPTION =
   "M.A.S. Traders is Kovilpatti's top-rated industrial supplier and hardware store. Browse 21 divisions of power tools, hand tools, pipes, fittings, electricals, safety equipment, fasteners, and request instant quotations.";
 const DEFAULT_KEYWORDS =
   "Kovilpatti best traders, hardwares Kovilpatti, tools Kovilpatti, hardware shop near me, industrial tools supplier Kovilpatti, pipes and fittings Kovilpatti, electricals Kovilpatti, power tools Kovilpatti, safety equipment Tamil Nadu, M.A.S. Traders";
-const BASE_URL = "https://mas-traders.com";
+const BASE_URL = "https://mastraderskvp.in";
 const DEFAULT_IMAGE = `${BASE_URL}/manus-storage/logo.png`;
 
 function setMetaTag(nameOrProperty: "name" | "property", key: string, content: string) {

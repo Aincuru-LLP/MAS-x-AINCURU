@@ -7,7 +7,7 @@ const __dirname = path.dirname(__filename);
 const PROJECT_ROOT = path.resolve(__dirname, "..");
 const SITEMAP_PATH = path.join(PROJECT_ROOT, "client", "public", "sitemap.xml");
 
-const BASE_URL = "https://mas-traders.com";
+const BASE_URL = "https://mastraderskvp.in";
 const TODAY = new Date().toISOString().split("T")[0];
 
 const sourceCatalogue = [

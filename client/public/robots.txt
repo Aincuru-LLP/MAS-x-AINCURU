@@ -1,5 +1,5 @@
 # Robots.txt for M.A.S. Traders (Kovilpatti)
-# https://mas-traders.com
+# https://mastraderskvp.in
 
 User-agent: *
 Allow: /
@@ -51,4 +51,4 @@ User-agent: cohere-ai
 Allow: /
 
 # Sitemap Index
-Sitemap: https://mas-traders.com/sitemap.xml
+Sitemap: https://mastraderskvp.in/sitemap.xml

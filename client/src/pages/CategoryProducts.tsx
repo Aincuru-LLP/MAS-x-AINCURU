@@ -25,9 +25,9 @@ export default function CategoryProducts() {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mas-traders.com/" },
-      { "@type": "ListItem", "position": 2, "name": "Catalogue", "item": "https://mas-traders.com/catalogue" },
-      { "@type": "ListItem", "position": 3, "name": category.category, "item": `https://mas-traders.com/category/${categorySlug(category.category)}` }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mastraderskvp.in/" },
+      { "@type": "ListItem", "position": 2, "name": "Catalogue", "item": "https://mastraderskvp.in/catalogue" },
+      { "@type": "ListItem", "position": 3, "name": category.category, "item": `https://mastraderskvp.in/category/${categorySlug(category.category)}` }
     ]
   };
 
